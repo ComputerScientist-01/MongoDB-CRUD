@@ -1,56 +1,10 @@
-<p align="center">
-    <a href="https://jayvardhanrathi.tech">
-	<img src="https://user-images.githubusercontent.com/39644109/110592126-e6fc2700-819f-11eb-9ca5-8827418963c7.png" width=80%/>
-</a>
-    
-</p>
-
-<h2 align="center"> Insert Project Title Here </h2>
-<h4 align="center"> Insert Project Description Here <h4>
-
-## Demo - [Link](link)
-
-## :fire: Features
-
-- point 1
-- point 2
-- point 3
-- point 4
-
-## :bulb: Built Using
-
-- [**a**]()
-- [**b**]()
-- [**c**]()
-
-## :iphone: Screenshots
-
-|                                   |                                   |
-| --------------------------------- | --------------------------------- |
-| <img src="images/"  width="300"/> | <img src="images/"  width="300"/> |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  |
-
-## Instructions to run
-
-- Pre-requisites:
-
-  - < insert pre-requisite >
-  - < insert pre-requisite >
-
-- < directions to install >
-
-```bash
-< insert code >
-```
-
-- < directions to execute >
-
-```bash
-< insert code >
-```
+<h2 align="center"> Mongo Crud Operations </h2>
+<h3 align="center">
+1. Student Database <br>
+2. Employee Database <br>
+3. Book Database <br>
+4. Food Database <br>
+</h3>
 
 <!-- LICENSE -->  
 
