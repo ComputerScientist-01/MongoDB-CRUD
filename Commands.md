@@ -34,3 +34,14 @@ db.studcol1.insert([{eid:001, ename:"Rahul", dept:"prod", desig:"dev", salary:30
 {eid:009, ename:"Soumya", dept:"prod", desig:"prod", salary:30000, yoj:2014, address:{dno:497, street:2, locality:"basti", city:"bangalore"}},
 {eid:010, ename:"Jai", dept:"test", desig:"test", salary:20000, yoj:2018, address:{dno:337, street:1, locality:"rmnagar", city:"kashmir"}}])
 ```
+
+## Exercise 2
+
+### Data to be inserted
+```bash
+db.book.insert([{isbn:"e1", bname:"let us C", author:["yeshanth", "kanaka"], year:2012, publisher:"pearson", price:100},
+{isbn:"e2", bname:"Object Oriented Programming", author:["manik", "chanda"], year:2013, publisher:"penguin", price:200},
+{isbn:"e3", bname:"AI Simplified", author:["hugh", "lowry"], year:2013, publisher:"penguin", price:400},
+{isbn:"e4", bname:"Formal Automata", author:["khemant", "bisht"], year:2014, publisher:"rachana", price:300},
+{isbn:"e5", bname:"let us C++", author:["sandy", "pandas"], year:2012, publisher:"pearson", price:200}])
+```
