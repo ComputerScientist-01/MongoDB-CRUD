@@ -35,7 +35,7 @@ db.studcol1.insert([{eid:001, ename:"Rahul", dept:"prod", desig:"dev", salary:30
 {eid:010, ename:"Jai", dept:"test", desig:"test", salary:20000, yoj:2018, address:{dno:337, street:1, locality:"rmnagar", city:"kashmir"}}])
 ```
 
-## Exercise 2
+## Exercise 3
 
 ### Data to be inserted
 ```bash
@@ -44,4 +44,15 @@ db.book.insert([{isbn:"e1", bname:"let us C", author:["yeshanth", "kanaka"], yea
 {isbn:"e3", bname:"AI Simplified", author:["hugh", "lowry"], year:2013, publisher:"penguin", price:400},
 {isbn:"e4", bname:"Formal Automata", author:["khemant", "bisht"], year:2014, publisher:"rachana", price:300},
 {isbn:"e5", bname:"let us C++", author:["sandy", "pandas"], year:2012, publisher:"pearson", price:200}])
+```
+
+## Exercise 4
+
+### Data to be inserted
+```bash
+db.food.insert([{foodid:1, foodcat:"fastfood", foodname:"burger", chefname:["naveen","reddy"], price:500,ingredients:["cheese","corn"], hotelname:"mcburger", address:{no:31, street:"belroad", locality:"yehelanka", city:"bangalore"}},
+{foodid:2, foodcat:"fastfood", foodname:"chicken", chefname:["sujay","pandas"], price:300,ingredients:["soya","corn"], hotelname:"mcchicken", address:{no:32, street:"gaoroad", locality:"tanbaram", city:"chennai"}},
+{foodid:3, foodcat:"fastfood", foodname:"pizza", chefname:["jai","rathi"], price:400,ingredients:["cheese","corn"], hotelname:"mcpizza", address:{no:33, street:"macroad", locality:"ktr", city:"madurai"}},
+{foodid:4, foodcat:"fastfood", foodname:"paneer", chefname:["swarma","goswami"], price:350,ingredients:["cheese","spices"], hotelname:"mcpaneer", address:{no:34, street:"gandhiroad", locality:"potheri", city:"dehradun"}},
+{foodid:5, foodcat:"fastfood", foodname:"dosa", chefname:["bedansh","nitin"], price:150,ingredients:["appam","chini"], hotelname:"mcdosa", address:{no:35, street:"munnaroad", locality:"saltlake", city:"siliguri"}}])
 ```
